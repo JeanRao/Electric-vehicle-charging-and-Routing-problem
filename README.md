@@ -1,4 +1,5 @@
 # Electric-vehicle-charging-and-Routing-problem
+Implemented ALNS and solved a simplified version of electic vehicle charging and routing problem with nonlinear charging functions
 ## Problem Statement
 Unlike the standard VRP, E-VRP involves both sequencing decisions as well as charging decisions. Here I simplify E-VRP-NL problem by assuming that every customer can always be served by no more than one visit to a charging station. And solve it with ALNS algorithm.
 ## Construction Heuristic 
